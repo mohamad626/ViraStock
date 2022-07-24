@@ -1,0 +1,6 @@
+streamlit==1.11.0
+yfinance==0.1.74
+pandas==1.4.3
+sklearn==0.0
+numpy==1.23.1
+math22==2.2
